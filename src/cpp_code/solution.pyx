@@ -10,7 +10,7 @@ cdef class cppSolution:
     def __cinit__(self): self.thisPtr = new Solution()
     def __dealloc__(self): del self.thisPtr
     
-    def maxProfit(self, int[:] prices):
+    def maxProfit(self, prices):
         cdef vector[int] cpp_arr
         cdef int price
         
