@@ -1,3 +1,3 @@
-from .solution import cppSolution
+from .solution import pySolution
 
-__all__ = ["cppSolution"]
+__all__ = ["pySolution"]
