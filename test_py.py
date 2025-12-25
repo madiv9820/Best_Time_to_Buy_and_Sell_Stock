@@ -1,6 +1,6 @@
 import unittest
 from timeout_decorator import timeout
-from Arrays.Easy_Breezy.Best_Time_to_Buy_and_Sell_Stock.src.py_code.solution import pySolution
+from src.py_code.solution import pySolution
 
 class UnitTest(unittest.TestCase):
     def setUp(self):
