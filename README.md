@@ -18,5 +18,6 @@ This guarantees correctness because **every valid transaction** is evaluated.
 - Return `maxProfit`
 
 ### ⏱️ Complexity Analysis
-- Time Complexity:	`O(n²)`
-- Space Complexity:	`O(1)`
+- **Time Complexity:**	`O(n²)`
+- **Space Complexity:**	`O(1)`
+---
