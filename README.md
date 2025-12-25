@@ -29,7 +29,7 @@ The catch? You have to **buy before you sell** ⬆️⬇️. Your profit is just
   Check **every possible pair** of buy and sell days 🔄, calculate the profit for each pair 📊, and keep track of the **maximum profit** 🏆.  
   Simple, correct ✅, but **O(n²)** time complexity ⏳.  
 
-- #### [Greedy / Optimized](https://github.com/madiv9820/Best_Time_to_Buy_and_Sell_Stock/tree/Approach_01-Brute_Force) 🚀
+- #### [Greedy / Optimized](https://github.com/madiv9820/Best_Time_to_Buy_and_Sell_Stock/tree/Approach_02-Greedy) 🚀
   Traverse the prices **once** 👀, keeping track of the **lowest buying price so far** 🔻.  
   For each day, calculate profit if sold today 💵, and update the **maximum profit** 🏆.  
   Fast and efficient: **O(n)** time ⏱️ and **O(1)** space 🧠.  
